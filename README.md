@@ -33,4 +33,4 @@
 
 3. Dependences: environment.yml
 
-4. And the use case study and cluster evaluation are in `explore/` folder.
+4. And the use case study, cluster evaluation and semantic quality of generated key-terms are in `explore/` folder.
